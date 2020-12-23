@@ -1,0 +1,2 @@
+C:\Users\wiini\source\repos\tcc2\Debug\tcc2.exe
+C:\Users\wiini\source\repos\tcc2\Debug\tcc2.pdb
